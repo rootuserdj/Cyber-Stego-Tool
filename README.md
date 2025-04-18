@@ -23,7 +23,8 @@
 - **💡 Beginner-friendly interface** with smooth hover effects for easy navigation
 
 ---
-**Cyber Stego Tool - Instructions for Windows**
+
+## 🛡️ **Cyber Stego Tool - Instructions for Windows**
 
 1. **Download the Executable:**
    - [Download Cyber Stego Tool](https://yourdownloadlink.com/cyber_stego_tool.exe)
@@ -36,14 +37,14 @@
    - Make sure you have the correct secret key for decryption.
 
 4. **System Requirements:**
-   - Windows 7 or later
+   - Windows 7  or later (64 bit)
    - No additional dependencies needed, as the application comes packaged.
 
 5. **Support:**
    - For any issues or feedback, contact us at [rootuserdj@gmail.com](mailto:rootuserdj@gmail.com).
 
 
-## 🧩 **System Requirements**
+## 🧩 **For Others Os System Requirements**
 
 - 🐍 Python 3.8 or later
 

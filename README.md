@@ -27,7 +27,7 @@
 ## 🛡️ **Cyber Stego Tool - Instructions for Windows**
 
 1. **Download the Executable:**
-   - [Download Cyber Stego Tool](https://yourdownloadlink.com/cyber_stego_tool.exe)
+   - [Download Cyber Stego Tool]([https://yourdownloadlink.com](https://github.com/rootuserdj/Cyber-Stego-Tool/Cyber-Stego-Tool.exe)
 
 2. **Run the Executable:**
    - Double-click on the `.exe` file to start the application.

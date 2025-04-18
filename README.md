@@ -27,10 +27,10 @@
 ## 🛡️ **Cyber Stego Tool - Instructions for Windows**
 
 1. **Download the Executable:**
-   - [Download Cyber Stego Tool]([https://yourdownloadlink.com](https://github.com/rootuserdj/Cyber-Stego-Tool/Cyber-Stego-Tool.exe)
+   - [Download Cyber Stego Tool]([https://yourdownloadlink.com](https://github.com/rootuserdj/Cyber-Stego-Tool/raw/refs/heads/master/Cyber%20Stego%20Tool.exe)
 
 2. **Run the Executable:**
-   - Double-click on the `.exe` file to start the application.
+   - Double-click on the `Cyber Stego Tool.exe` file to start the application.
 
 3. **How to Use the Tool:**
    - Follow the steps outlined in the README for hiding and revealing messages inside images using AES encryption and LSB steganography.
@@ -62,7 +62,7 @@ pip install pillow stegano pycryptodome
 
 1. **Run the Application**:
    ```bash
-   python cyber_stego_tool.py
+   python Cyber Stego Tool.py
    ```
 
 2. **Hiding a Message**:

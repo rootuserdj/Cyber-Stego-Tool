@@ -9,7 +9,7 @@
 
 ## 📸 **Screenshot**
 
-![Screenshot](preview.png)
+![Screenshot](preview.jpg)
 
 ---
 
